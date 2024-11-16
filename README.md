@@ -2,14 +2,6 @@
 
 ## Who deports more, Republicans or Democrats?
 
--   [ ] https://www.migrationpolicy.org/article/biden-deportation-record
--   [ ] https://www.americanimmigrationcouncil.org/research/mass-deportation
--   [ ] https://trac.syr.edu/phptools/immigration/remove/
--   [ ] https://trac.syr.edu/reports/748/
--   [ ] https://ohss.dhs.gov/topics/immigration/yearbook
--   [ ] https://ohss.dhs.gov/topics/immigration/yearbook/2019/table39
-- TODO removals x returns
-
 ## Data
 
 Office of Homeland Security data (deportation): https://ohss.dhs.gov/topics/immigration/yearbook/2019/table39

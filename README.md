@@ -1,12 +1,8 @@
-# LIS MASc Everything Counts Assignment 2
+# Who deports more, Republicans or Democrats?
 
-## Who deports more, Republicans or Democrats?
-
-## Data
-
-Office of Homeland Security data (deportation): https://ohss.dhs.gov/topics/immigration/yearbook/2019/table39
-
-US House of Representatives History data (parties): https://history.house.gov/Institution/Presidents-Coinciding/Party-Government/
+LIS MASc  
+Everything Counts  
+Assessment 2  
 
 ## Instructions
 
